@@ -1,0 +1,10 @@
+SOURCE:
+
+   /stock/iStock_000010725991XSmall.jpg
+
+
+PROCESS:
+
+1. Scale to 128 x 91 px.
+2. Apply seamless filter.
+3. Save as JPEG with 85% quality.
