@@ -1,10 +1,7 @@
-SOURCE:
-
-   /stock/iStock_000010725991XSmall.jpg
-
-
 PROCESS:
 
-1. Scale to 128 x 91 px.
-2. Apply seamless filter.
-3. Save as JPEG with 85% quality.
+1. Create empty 128 x 128 px image.
+2. Fill entire image with color RGB(0,104,0).
+3. Apply HSV Noise filter with parameters (Holdness=2, Hue=3, Saturation=10, Value=15).
+4. Apply seamless filter.
+5. Change image mode to Indexed.
